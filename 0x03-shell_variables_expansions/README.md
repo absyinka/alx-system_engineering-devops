@@ -2,6 +2,6 @@
 
 ```
 *** - Task 0: alias ls="rm *" ***
-*** - Task 1: ***
-*** - Task 2:  ***
+*** - Task 1: echo "Hello $USER" ***
+*** - Task 2:  echo export PATH=$PATH:/action ***
 ```
