@@ -1,13 +1,13 @@
 # Shell expansion script
 
 * Task 0: `alias ls="rm *"`
-* - Task 1: `echo "Hello $USER"`
-*** - Task 2: export PATH=$PATH:/action ***
-*** - Task 3: echo $((`echo $PATH | grep -o ":/" | wc -l` +1)) ***
-*** - Task 4: printenv (or env) ***
-*** - Task 5: set ***
-*** - Task 6: BEST="School" ***
-*** - Task 7: export BEST="School" ***
+* Task 1: `echo "Hello $USER"`
+* Task 2: `export PATH=$PATH:/action`
+* Task 3: `echo $((`echo $PATH | grep -o ":/" | wc -l` +1))`
+* Task 4: `printenv (or env)`
+* Task 5: `set` 
+* Task 6: `BEST="School"`
+* Task 7: `export BEST="School"`
 *** - Task 8: echo $(($TRUEKNOWLEDGE + 128)) ***
 *** - Task 9: echo $(($POWER/$DIVIDE)) ***
 *** - Task 10: echo $(($BREATH**$LOVE)) ***
